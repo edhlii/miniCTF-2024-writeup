@@ -1,7 +1,7 @@
-# Mô tả
+# Challenge
 Đoạn thông tin đã bị nhiễu trong lúc vận chuyển. Biết được key ở đầu file. Tìm ra flag ẩn chứa trong đoạn văn bản đã được mã hóa.<br>
 [APLHABETZ.txt](https://minictf.infosecptit.club/files/59da09335c69c632b74f45cd6279e1c7/APLHABEZ.txt?token=eyJ1c2VyX2lkIjo2OCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDV9.ZuE4NA.XoxGQISdsIy4HoaseRo8gTsYUzg)
-# Cách giải
+# Solution
 Mở file ```APLHABETZ.txt``` ta thấy một đoạn chữ trông có khả năng là flag đã bị mã hóa:<br>
 ```wtytPQU{4hrn4s3q_3Z0HE710Y_(@@)}```<br>
 Ở đầu file txt này, ta thấy một dòng chữ kì lạ: ```ISPCLUBVTGNHWYJRXODQEZKMAF```
