@@ -12,7 +12,7 @@ Khi giải nén file vừa thu được, ta bị yêu cầu nhập mật khẩu 
 ![password to extract](https://i.imgur.com/Ig73zKL.png)<br> <br>
 Sử dụng [Zip Password Recovery](https://www.lostmypass.com/file-types/zip/) của website LostMyPass, ta tìm được mật khẩu giải nén là ```123456```
 ![password recorvery](https://i.imgur.com/5VTsiRY.png)<br> <br>
-Ta thấy một file ```flag.txt```:
+Ta thấy một file ```flag.txt```:<br>
 ![flag.txt](https://i.imgur.com/hLcmBvZ.png)<br> <br>
 Tuy nhiên ta vẫn chưa lấy được flag, khi mở file ta được thông điệp sau:
 ```text
